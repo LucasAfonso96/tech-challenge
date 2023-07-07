@@ -1,0 +1,37 @@
+.user-container {
+    border: 8px dashed black;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 20px auto; 
+    margin-top: 100px;
+    max-width: 400px; 
+    font-family: Arial, sans-serif;
+  }
+  
+  .user-id {
+    text-align: right;
+    font-family: "Lucida Console"!important;
+    font-style: italic;
+    font-size: 0.8rem !important;
+  }
+  
+  .user-info {
+    margin-top: 20px;
+  }
+  .user-info .name {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+  }
+  
+  .user-info .job-descriptor {
+    font-size: 18px;
+    font-weight: 100;
+    font-family: Verdana, sans-serif;
+  }
+  
+  .user-info .job {
+    font-size: 13px;
+    font-weight: 100;
+    font-family: Verdana, sans-serif;
+  }
